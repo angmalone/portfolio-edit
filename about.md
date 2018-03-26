@@ -1,1 +1,0 @@
-Cleveland raised. DC based. When I'm not coding I'm probably doing one of the following: dreaming about San Diego, rebuilding (or raiding) the Wasteland in Fallout 4,cheering on the Cavs, searching for the next great cup of cold brew, pretending like I'm a professional photographer on Instagram or eating poke.
