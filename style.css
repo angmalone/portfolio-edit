@@ -1,0 +1,76 @@
+.coronado {
+  margin-top: 50px;
+  /*width: 450;
+  height: 650;*/
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.about {
+  margin: 0 auto;
+  align-content: center;
+  max-width: 600px;
+  padding: 5px;
+}
+
+.projects {
+  max-width: 600px;
+  margin: 0 auto;
+  align-content: center;
+}
+
+.use {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: -15px;
+}
+a {
+  font-size: 20px;
+  padding: 0px 20px 0px 20px;
+  transition: all 1s ease;
+}
+nav {
+  display: inline-flex;
+  align-content: space-between;
+  max-width: 400px;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.abt {
+  color: #2f2c3d;
+}
+
+.prj {
+  color: #ae719a;
+}
+
+.ct {
+  color: #ce97b4;
+}
+
+.email,
+.github,
+.linkedin {
+  margin: 50px;
+}
+.contact {
+  display: inline-flex;
+  align-content: center;
+}
+body {
+  margin: auto 0;
+  text-align: center;
+  align-content: center;
+}
