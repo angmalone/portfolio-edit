@@ -66,6 +66,7 @@ a {
 .contact {
   display: inline-flex;
   align-content: space-between;
+  margin: 0 auto;
 }
 body {
   margin: auto 0;
