@@ -1,14 +1,5 @@
-@media only screen and (max-width: 600px) {
-  .coronado {
-    width: 350px;
-    height: 550px;
-  }
-}
-
 .coronado {
   margin-top: 50px;
-  /*width: 450;
-  height: 650;*/
 }
 
 img {
@@ -74,7 +65,7 @@ a {
 }
 .contact {
   display: inline-flex;
-  align-content: center;
+  align-content: space-between;
 }
 body {
   margin: auto 0;
