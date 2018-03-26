@@ -34,7 +34,7 @@ a {
 nav {
   display: inline-flex;
   align-content: space-between;
-  max-width: 400px;
+  max-width: 450px;
 }
 
 h1,
@@ -57,16 +57,19 @@ a {
 .ct {
   color: #ce97b4;
 }
-
+.proj-img {
+  width: 550px;
+}
 .email,
 .github,
 .linkedin {
-  margin: 50px;
+  margin: 40px;
 }
 .contact {
   display: inline-flex;
   align-content: space-between;
   margin: 0 auto;
+  max-width: 100%;
 }
 body {
   margin: auto 0;
